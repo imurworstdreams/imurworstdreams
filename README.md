@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imurworstdreams
+- 👋 Hi, I’m Ons Ferid
 - 👀 I’m interested in AI, OOP, JS, MERN, toukie formatik
 - 🌱 I’m currently learning computer science
 - 📫 How to reach me onsfarid08@gmail.com
